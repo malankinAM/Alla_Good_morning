@@ -1,0 +1,21 @@
+body {
+            background-color:#641751;   
+         }
+         
+         .shape {
+           fill: none;
+           stroke: none;
+           
+         }
+         #heart {
+           position: relative;
+           width: 180vh;
+           top: 100px;
+           left:40%;    
+           overflow: visible;
+         }
+         
+         text {
+           text-shadow: 5px 5px 1px rgba(0,0,0,1);
+         }
+         
